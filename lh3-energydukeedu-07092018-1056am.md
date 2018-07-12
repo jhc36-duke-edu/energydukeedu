@@ -195,7 +195,7 @@ Fix any of the following:
 <br>
 
 
-### This `<a>` link has no text inside.
+### This `<a>` link has no text inside (x 6).
 
 There are some social media icons that are not visible. Even though they are not visible, they still throw an error and false positives have been used in litigation to prove accessibility issues, so it will need fixed anyway.
 
