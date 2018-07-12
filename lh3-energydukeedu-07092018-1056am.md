@@ -14,19 +14,16 @@ __<https://energy.duke.edu/>__
 
 __Screenshot:__
 
+![Screenshot of this website](assets/home--energy-screenshot.png)
+
+# Home Page Accessibility
+
 <details>
 <summary>Table of Contents</summary>
 
 [TOC]
 
 </details>
-
-![Screenshot of this website](assets/home--energy-screenshot.png)
-
-# Home Page Accessibility
-
-
-<br>
 
 ## Links do not have a discernible name [priority]
 
