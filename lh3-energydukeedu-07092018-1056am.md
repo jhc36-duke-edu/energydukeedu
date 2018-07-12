@@ -14,7 +14,12 @@ __<https://energy.duke.edu/>__
 
 __Screenshot:__
 
+<details>
+<summary>Table of Contents</summary>
 
+[TOC]
+
+</details>
 
 ![Screenshot of this website](assets/home--energy-screenshot.png)
 
